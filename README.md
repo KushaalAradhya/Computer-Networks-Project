@@ -1,4 +1,4 @@
-# Project 17 – Multiplayer Game Communication Network (UDP + SDN)
+Multiplayer Game Communication Network (UDP + SDN)
 
 | Requirement | Where |
 |---|---|
